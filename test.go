@@ -1,4 +1,4 @@
-package udemy_go
+package main
 
 import "fmt"
 
