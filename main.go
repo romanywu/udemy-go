@@ -1,1 +1,7 @@
-package Cpt5
+package udemy_go
+
+import "fmt"
+
+func main() {
+	fmt.Println("Hello World")
+}
